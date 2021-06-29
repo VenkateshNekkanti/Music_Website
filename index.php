@@ -12,6 +12,6 @@ $query_builder = TRUE;
 $conn = mysqli_connect($cleardb_server, $cleardb_username, $cleardb_password, $cleardb_db);
 
 
- include_once("Website.html");
+ include_once("Website.php");
  
 ?> 
